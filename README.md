@@ -7,7 +7,7 @@
 
 # forStudents
 
-> 
+ > Application for calisthenics
 
 <h3 align="center">
   <img alt="ReactNative" 
