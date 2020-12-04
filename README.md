@@ -7,7 +7,7 @@
 
 # forStudents
 
-> The project aims to build an application using pomodoro technique (but with free chooses of time), where the user can visualize and track his studying time.
+> 
 
 <h3 align="center">
   <img alt="ReactNative" 
@@ -25,14 +25,14 @@
 
 ## 💡 About the challenge:
 
-This challenge aims to put into practice the concepts learned about React Native, to develop this challenge an API written in Node was used that was made in the NodeJS challenge.
+The project aims to build an application using pomodoro technique (but with free chooses of time), where the user can visualize and track his studying time.
 
 ## 🔥 Functionalities:
 
 Through this application we can:
 
-- Many calisthenics training options
-- View training progress with counters, audible alerts and animations.
+- Follow a study routine using counters & audible alerts to track it.
+- Set a study time the way we want
 
 ## ⚙️ Techs:
 
@@ -60,7 +60,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 2. Install repository packages
    ```sh
-   yarn install
+   yarn
    ```
 3. Run the following code on the project root directory
    ```sh
