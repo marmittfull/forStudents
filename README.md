@@ -7,7 +7,7 @@
 
 # forStudents
 
- > Application for calisthenics
+ > Pomodoro timer based application
 
 <h3 align="center">
   <img alt="ReactNative" 
